@@ -114,8 +114,4 @@ def main(in_path: str, out_path: str = None):
 
 
 if __name__ == "__main__":
-    proj = main("/Users/hheinrichs/Downloads/HannahBaseline_DataDictionary_2023-04-30.csv")
-    #print(proj)
-    quest = "pss10_2"
-    print(proj.get_content(quest))
-    #print(proj)
+    main()
