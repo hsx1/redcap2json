@@ -1,6 +1,7 @@
 # redcap2json
 
-Handling data dictionaries from redcap.
+Handling data dictionaries from REDCap. REDCap is used for electronic data 
+collection.
 
 Oftentimes, experimenters will only download a CSV will the raw data. To access 
 the labels of many Recap question types. Download the code dictionary along 
