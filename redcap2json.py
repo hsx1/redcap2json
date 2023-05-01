@@ -114,4 +114,5 @@ def main(in_path: str, out_path: str = None):
 
 
 if __name__ == "__main__":
-    main()
+    pass
+
